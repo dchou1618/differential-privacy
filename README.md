@@ -1,4 +1,4 @@
-# Differential Privacy Implementations from Papers
+# Differential Privacy Meta Analysis from Papers
 
 ## Orchard: Differentially Private Analytics at Scale
 
